@@ -77,6 +77,23 @@ console.log(username);
 ------------ */
 
 
+/* --------------
+7th Example
+
+
+//Number Data Type
+//Double-precision floating-point format - 64bit in computer memory
+// odd things: it has "ΜΑΧ_SAFE_INTERGER" and "MIN_SAFE_INTEGER"
+// it gives as the max and the min SAFE number that we can use.
+
+console.log(Number.MAX_SAFE_INTEGER);
+console.log(Number.MIN_SAFE_INTEGER);
+
+// This data types can also have this following values (developer console)
+console.log(Number.NEGATIVE_INFINITY); // -Infinity
+console.log(Number.POSITIVE_INFINITY); // Infinity
+console.log(Number.NaN); // NaN (not a number)
+-------------- */
 
 
 
