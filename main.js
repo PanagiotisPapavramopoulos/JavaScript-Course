@@ -124,6 +124,59 @@ console.log(5 + (3 * 12) - (20 / 10)); // (console 39)
 console.log((5 + 3) * (12 - 20) / 10); // (console -6.4)
 ----------------*/
 
+/* ----------------
+9th Example
+
+// Increment - Decrement Operators
+let sliceOfPizza = 10;
+sliceOfPizza = 11; 
+sliceOfPizza = sliceOfPizza + 1; //same as above but more relative
+//Postfix Increment/Decrement Operators
+sliceOfPizza++; //Increment by one - same as above with less typing
+sliceOfPizza--; //Decrement by one 
+//Prefix Increment/Decrement Operators
+++sliceOfPizza;
+--sliceOfPizza;
+// Other operators
+sliceOfPizza = sliceOfPizza * 5; // console 50
+sliceOfPizza *= 5; // (console 50) same as above with less typing - can be used with other operators.
+sliceOfPizza /= 5; // (console 2)
+sliceOfPizza += 5; // (console 15)
+sliceOfPizza -= 5; // (console 5)
+sliceOfPizza %= 5; // (console 0)
+----------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
